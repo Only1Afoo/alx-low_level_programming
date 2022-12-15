@@ -3,13 +3,13 @@
 #include <time.h>
 
 /**
- *main : main function to generate a random nummber
+ *main  main function to generate a random nummber
  *
  *Return: Always 0 (Success)
  *
  */
 
-int main(void)  
+int main(void)
 {
 
 int n;
