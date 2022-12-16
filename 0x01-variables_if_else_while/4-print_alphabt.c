@@ -2,15 +2,15 @@
 #include <stdlib.h>
 
 /**
-* main - return alphabet except e and q
-* Return: 0 Always (Success)
+* main - returns alphabets except e and q
+* Return: Always 0 (Success)
 */
 
 int main(void)
 {
 char ch ='a';
 
-while (ch = 'z')
+while (ch <= 'z')
 {
 if ((ch != 'e') && (ch != 'q'))
 {
