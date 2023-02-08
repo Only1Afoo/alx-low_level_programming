@@ -18,7 +18,7 @@ for (tens = '0'; tens <= '9'; tens++)/* prints tens digit*/
 for (ones = '0'; ones <= '9'; ones++)/*prints one digit*/
 {
 if (!((ones == tens) || (hundreds == tens) ||
- (tens > ones) || (hundreds > tens)))/*eliminates repetition*/
+(tens > ones) || (hundreds > tens)))/*eliminates repetition*/
 {
 putchar(hundreds);
 putchar(tens);
