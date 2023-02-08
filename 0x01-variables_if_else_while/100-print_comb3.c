@@ -7,7 +7,9 @@
   */
 
 int main(void)
+
 {
+
 int ones = '0';
 int tens = '0';
 
